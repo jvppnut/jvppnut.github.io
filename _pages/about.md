@@ -18,6 +18,6 @@ My Ph.D. work focused on the development of an unified control-based, model-less
 Education
 ======
 
--* B.E. Electronics Engineering - Universidad Simon Bolivar, Venezuela (2016)
--* M.E. Electrical Engineering - Nagaoka University of Technology, Japan (2019)
--* Ph.D. Electrical Engineering - Nagaoka University of Technology, Japan (2022)
+- B.E. Electronics Engineering - Universidad Simon Bolivar, Venezuela (2016)
+- M.E. Electrical Engineering - Nagaoka University of Technology, Japan (2019)
+- Ph.D. Electrical Engineering - Nagaoka University of Technology, Japan (2022)

@@ -11,6 +11,7 @@ redirect_from:
 Welcome!
 My name is Juan Padron (*full name: Juan Vicente Padron Parraga*), and I work as an assistant professor at the [Mechatronics Laboratory](https://whs.nagaokaut.ac.jp/elemech/index.html) @ Nagaoka University of Technology (NUT), Japan.
 
+Contact me: **jpadron** *at* **vos** *dot* **nagaokaut.ac.jp**
 
 Brief profile
 ======

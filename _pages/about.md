@@ -15,9 +15,17 @@ I obtained my Ph.D. degree in 2022 from NUT at the Motion Control Laboratory und
 
 My Ph.D. work focused on the development of an unified control-based, model-less compensation algorithm for nonlinear friction and backlash in geared servomotors.
 
-Education
+Brief profile
 ======
 
+Research interests
+--------
+- Force control and human-robot interaction.
+- Disturbance observer-based control.
+- Compensation of nonlinear phenomena through control-based solutions.
+
+Education
+--------
 - B.E. Electronics Engineering - Universidad Simon Bolivar, Venezuela (2016)
 - M.E. Electrical Engineering - Nagaoka University of Technology, Japan (2019)
 - Ph.D. Electrical Engineering - Nagaoka University of Technology, Japan (2022)

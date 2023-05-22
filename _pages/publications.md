@@ -5,8 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-reviewed journals (accepted)
+Peer-reviewed journals 
 ======
+1. J. Padron, Y. Kawai, Y. Yokokura, K. Ohishi and T. Miyazaki: "Stable Torsion Torque Control Based on Friction-Backlash Analogy for Two-Inertia Systems with Backlash" in _IEEJ Journal of Industry Applications_, vol. 11, no. 2, pp. 279-290, 2022.
+
 
 Proceedings on conferences 
 ======
+
+Rejections
+======
+To be updated soon.
